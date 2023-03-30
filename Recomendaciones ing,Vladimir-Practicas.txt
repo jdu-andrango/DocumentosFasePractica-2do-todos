@@ -1,0 +1,27 @@
+formularios reactivos en angular
+
+grillas 
+
+flex 
+position 
+forms 
+picker 
+
+comunicados con query strin 
+
+login 
+aplicacion 
+
+
+
+
+core iu
+modificar estilos 
+
+material
+
+
+ materia l iu 
+core iu 
+
+reactive forms 
